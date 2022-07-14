@@ -20,7 +20,7 @@ Simple snippet Kotlin code to using Alibaba Cloud SMS.
 4. Run
 
 Example Response:
-```aidl
+```json
 {
 	"ResponseCode": "OK",
 	"NumberDetail": {
