@@ -6,9 +6,18 @@ Simple snippet Kotlin code to using Alibaba Cloud SMS.
 3. Secret Key
 
 **How to use:**
-1. Pull
-2. Fill the missing variables
-3. Run
+1. Add dependency 
+```
+<dependency>
+   <groupId>com.aliyun</groupId>
+   <artifactId>aliyun-java-sdk-core</artifactId>
+   <version>4.6.0</version>
+</dependency> 
+   ```
+   
+2. Pull
+3. Fill the missing variables
+4. Run
 
 Example Response:
 ```aidl
