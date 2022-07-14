@@ -1,0 +1,29 @@
+Simple snippet Kotlin code to using Alibaba Cloud SMS.
+
+**Make sure you have your own:**
+1. Region ID
+2. Access Key
+3. Secret Key
+
+**How to use:**
+1. Pull
+2. Fill the missing variables
+3. Run
+
+Example Response:
+```aidl
+{
+	"ResponseCode": "OK",
+	"NumberDetail": {
+		"Region": "Indonesia",
+		"Country": "Indonesia",
+		"Carrier": "IM3"
+	},
+	"RequestId": "XXXXXX-XXXX-XXXX-XXXXX-XXXXXXXX",
+	"Segments": "1",
+	"ResponseDescription": "1234567890",
+	"From": "INVESTREE",
+	"To": "62857123456789",
+	"MessageId": "1234567890"
+}
+```
